@@ -26,15 +26,13 @@ const Hero = () => (
         </div>
       </div>
 
-      <h1 className="flex-1 font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">
+      <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
         Payment Method.
       </h1>
-
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde eius
-        repellendus in libero consequuntur aperiam qui, voluptatem quia facilis
-        autem molestiae id officiis facere quae? Voluptate ut saepe dolores
-        veritatis.
+        Our team of expers uses a methodology to identify the credit card most
+        likely to fit your needs. We examine annual percentage rates, annual
+        fees.
       </p>
     </div>
     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

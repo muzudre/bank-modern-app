@@ -33,10 +33,9 @@ const Business = () => {
           the money.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
-          sint tempore velit reprehenderit praesentium cupiditate maiores enim
-          nam, veritatis recusandae ex dolor corporis dicta repellendus! Et
-          quisquam quidem ad consequatur.
+          With the right credit card, you can improve your financial life by
+          building credit, earning rewards and saving money. But with hundreds
+          of credit cards on the market.
         </p>
 
         <Button styles="mt-10" />

@@ -10,10 +10,8 @@ const CardDeal = () => (
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas quae
-        exercitationem vel et unde. Asperiores mollitia amet eum aspernatur
-        culpa distinctio, necessitatibus quos facilis quibusdam ullam cum
-        dolorem, a fugit?
+        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
+        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
       </p>
       <Button styles={"mt-10"} />
     </div>
